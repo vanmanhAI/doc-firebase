@@ -164,7 +164,6 @@ graph TD
     
     style B fill:#ffcccc
     style D fill:#ffcccc
-    Note: "Client-side heavy"
 ```
 
 ### Proposed Architecture:
@@ -185,7 +184,6 @@ graph TD
     
     style B fill:#ccffcc
     style F fill:#ccffcc
-    Note: "Server-side enhanced"
 ```
 
 ## 7. Migration Plan
